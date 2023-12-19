@@ -28,7 +28,8 @@ header, main, section, article {
 
 header > h1, h2{
     color: rgb(23, 16, 119);
-     }
+    text-shadow: 1px 1px 0px black;
+}
 
 main, section, article {
     background-color: white;
@@ -41,7 +42,7 @@ main, section, article {
 footer {
     display: block;
     width: 100vw;
-    background-color: #291f6c;
+    background-color: #4e2785;
     color: white;
     text-align: center;
     margin-top: auto;
@@ -53,10 +54,10 @@ p {
     line-height: 1.5em;
 }
 
-/*h2, h3, h4 {
+h2, h3, h4 {
     color: #372991;
     margin: 0 0 10px 0;
-}*/
+}
 
 a {
     color: #15142b;
