@@ -137,18 +137,16 @@ form {
     border-radius: 10px;
 }
 
-    form label {
-        display: block;
-        width: auto;
-        font-size: 1em;
-        font-weight: 100;
-        background-color: rgba(55, 41, 145, 0.2);
-        padding: 3px 7px;
-        margin-top: 10px;
-        margin-bottom: 0px;
-        border-radius: 5px;
-    
-    
+form label {
+    display: block;
+    width: fit-content;
+    font-size: 0.8em;
+    font-weight: 100;
+    background-color: rgba(55, 41, 145, 0.2);
+    padding: 3px 7px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    border-radius: 5px;
 }
 
 input[type=text], [type=number], select, input[type=date], input[type=date], input[type=datetime], input[type=email], input[type=month], input[type=password], input[type=range], input[type=tel], input[type=time], input[type=week] {
