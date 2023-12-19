@@ -27,9 +27,8 @@ header, main, section, article {
 }
 
 header > h1, h2{
-    color: white;
-    text-shadow: 3px 3px 0px black;
-}
+    color: rgb(23, 16, 119);
+     }
 
 main, section, article {
     background-color: white;
